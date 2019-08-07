@@ -44,5 +44,5 @@ def using_delete(instructors)
 end
 
 def using_delete_at(famous_robots)
-  using_delete_at.delete(2, famous_robots.delete)
+  using_delete_at.delete(2, famous_robots)
 end
